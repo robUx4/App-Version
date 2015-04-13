@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_clipboard">Copy To Clipboard</string>
+    <string name="menu_share">Share Version Info</string>
+    <string name="versionCode">versionCode=%d</string>
+    <string name="versionName">versionName=%s</string>
+    <string name="shareTitle">AppVersion for %s</string>
+    
+</resources>
